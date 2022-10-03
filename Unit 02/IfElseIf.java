@@ -1,4 +1,4 @@
-public class ExampleIfElseIf {
+public class IfElseIf {
     public static void main(String args[]) {
      int grade = 85;
 

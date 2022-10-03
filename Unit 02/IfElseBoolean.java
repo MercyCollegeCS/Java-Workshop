@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExampleIfElseBoolean {
+public class IfElseBoolean {
     public static void main(String[] args) {
 
         System.out.print("Enter a score: ");
