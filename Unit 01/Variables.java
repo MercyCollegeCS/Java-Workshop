@@ -1,4 +1,4 @@
-public class ExampleVariables  { // make sure the class name is the same as filename
+public class Variables  { // make sure the class name is the same as filename
     public static void main(String []args) { // main program
       
       int someInteger = 42;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExampleInputs  { // make sure the class name is the same as filename
+public class Inputs  { // make sure the class name is the same as filename
     public static void main(String []args) { // main program
 
     int length; // declare variables
