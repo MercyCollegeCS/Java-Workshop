@@ -11,11 +11,12 @@ If you are not a part of that audience, you may still find this a useful way to 
 - `Unit 03`: Loops
 - `Unit 04`: Functions
 
-## Test Environment:
+## Test Environment
 - `Python`: `3.10`
 - `Java`: `JDK 17`
 
 
 2022 - 2023
+v 1.0
 
 Dr. Tianyu Wang
