@@ -1,4 +1,5 @@
 # Java Workshop
+![Java Workshop](https://raw.githubusercontent.com/MercyCollegeCS/Java-Workshop/main/archive/logo.png)
 
 ## Goal
 The goal of this project is to help students who have had one semester of Python ([`CISC131`](https://github.com/MercyCollegeCS/CISC131)) prepare the Java programming language class (`CISC231`). 
