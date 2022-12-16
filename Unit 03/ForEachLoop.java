@@ -1,6 +1,6 @@
 // print array elements 
 
-class MaForEachLoop {
+class ForEachLoop {
     public static void main(String[] args) {
 
         // create an array
