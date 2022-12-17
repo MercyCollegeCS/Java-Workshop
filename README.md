@@ -1,23 +1,24 @@
 # Java Workshop
 ![Java Workshop](https://raw.githubusercontent.com/MercyCollegeCS/Java-Workshop/main/archive/logo.png)
 
-## Goal
-The goal of this project is to help students who have had one semester of Python ([`CISC131`](https://github.com/MercyCollegeCS/CISC131)) prepare the Java programming language class (`CISC231`). 
+The goal of this project is to provide assistance to students who have completed a semester of Python ([`CISC131`](https://github.com/MercyCollegeCS/CISC131)) as they prepare for the Java programming language class (`CISC231`). While this project is primarily intended for this specific audience, it may also be a useful resource for those interested in learning more about Java.
 
-If you are not a part of that audience, you may still find this a useful way to learn about Java. To help student to learn Java I will start with a Python example and then implement the example in Java. Along the way we will examine the strengths, weaknesses, and differences between those two languages. Again, this repo does not attempt to replace the many good Java reference books or any Java courses.
+To aid in the learning process, this project begins with Python examples and then demonstrates how to implement the same examples in Java, while also comparing the strengths, weaknesses, and differences between the two languages. It should be noted that this repository does not seek to replace comprehensive Java reference materials or courses.
 
-## Outline
-- `Unit 01`: Variables, Inputs and Outputs
-- `Unit 02`: Conditionals
-- `Unit 03`: Loops
-- `Unit 04`: Functions
+# Outlines
+The project is organized into four units:
 
-## Test Environment
+- Unit 01: Variables, Inputs and Outputs
+- Unit 02: Conditionals
+- Unit 03: Loops
+- Unit 04: Functions
+
+# Testing Environment
+The project is designed to be used with the following software versions:
 - `Python`: `3.10`
 - `Java`: `JDK 17`
 
-
-2022 - 2023
-v 1.0
+Since 2022
+v 1.1
 
 Dr. Tianyu Wang
